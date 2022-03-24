@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Latihan-git"]
+	url = https://github.com/Juliani00/99.git
+	fetch = +refs/heads/*:refs/remotes/Latihan-git/*
